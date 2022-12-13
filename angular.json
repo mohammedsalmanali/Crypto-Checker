@@ -107,5 +107,8 @@
       }
     }
   },
-  "defaultProject": "crypto-checker-yt"
+  "defaultProject": "crypto-checker-yt",
+  "cli": {
+    "analytics": false
+  }
 }
